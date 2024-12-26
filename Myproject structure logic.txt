@@ -1,0 +1,20 @@
+npm init, 
+
+and create index.js 
+
+/////
+
+- lumie: instead of regiestring all of your routes by importing and doing all stuff what 
+lumie does is actually automatically regiestering all of our routes by scanning the 
+defined directory
+
+/////
+
+.mpnrc : using npmrc to strictly follows the defined defined nodejs version in package.json
+.sequelizerc: config file used by sequelize CLI , allows us to customize the path for the
+certain file and directories that sequelize CLI interacts with
+
+so with in this file we are enabling bable support ensuring that it follows modren js es6
+syntax 
+
+loading enviroment variables
